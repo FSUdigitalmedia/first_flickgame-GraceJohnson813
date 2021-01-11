@@ -1,6 +1,6 @@
-# Your Flick Game Title Goes Here
+# Pathways
 
 ## Description
 
-Description of the game goes here.
+Follow the path to get a surpise.
 
